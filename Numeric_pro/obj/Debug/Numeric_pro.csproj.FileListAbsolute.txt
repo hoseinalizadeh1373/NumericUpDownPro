@@ -1,0 +1,5 @@
+c:\users\novin\documents\visual studio 2017\Projects\Numeric_pro\Numeric_pro\bin\Debug\Numeric_pro.dll
+c:\users\novin\documents\visual studio 2017\Projects\Numeric_pro\Numeric_pro\bin\Debug\Numeric_pro.pdb
+c:\users\novin\documents\visual studio 2017\Projects\Numeric_pro\Numeric_pro\obj\Debug\Numeric_pro.dll
+c:\users\novin\documents\visual studio 2017\Projects\Numeric_pro\Numeric_pro\obj\Debug\Numeric_pro.pdb
+C:\Users\NOVIN\Documents\Visual Studio 2017\Projects\Numeric_pro\Numeric_pro\obj\Debug\Numeric_pro.csprojResolveAssemblyReference.cache
